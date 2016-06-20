@@ -1,24 +1,20 @@
 {
   "name": "nodeapp",
   "version": "1.0.0",
-  "description": "Node + Express + Passport + Angular+ Mysql sample application",
+  "description": "Node + Express + Passport + Mysql sample application",
   "main": "app.js",
   "scripts": {
     "test": "nodemon app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sayeed958/Node-Express-Passport-MySql-Angular-Sample-Project.git"
+    "url": "https://github.com/sayeed958/Node-Express-Passport-Usermanagement.git"
   },
   "keywords": [
     "Node-Express-Passport-MySql-Angular-Sample-Project"
   ],
   "author": "Sayeed",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sayeed958/Node-Express-Passport-MySql-Angular-Sample-Project/issues"
-  },
-  "homepage": "https://github.com/sayeed958/Node-Express-Passport-MySql-Angular-Sample-Project#readme",
   "dependencies": {
       "express": "4.x",
       "body-parser": "*",
